@@ -1,2 +1,2 @@
 # Clock
-this is a readme file for clock
+this is a readme file for the clock
